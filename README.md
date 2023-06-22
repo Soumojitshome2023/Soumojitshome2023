@@ -1,10 +1,11 @@
 <div align="center">
-<img style="border-radius: 50%""; src="https://drive.google.com/uc?export=view&id=1Cm-Q3d1Z5ji96myT02V_9tnyId4_0UaA" align="center" style="width: 50%" />
+<img src="https://drive.google.com/uc?export=view&id=1Cm-Q3d1Z5ji96myT02V_9tnyId4_0UaA" align="center" style="width: 40%" />
 </div>  
   
 
-### <div align="center">Hi 👋, I'm Soumojit Shome.</div><br><div>A passionate frontend developer from India 🚀😀</div>  
+### <div align="center">Hi 👋, I'm Soumojit Shome.</div><br><div align="center">A passionate frontend developer from India 🚀😀</div>  
   
+<hr>
 
 # About Me: 😇  
   
@@ -32,6 +33,8 @@
 
 <br/>  
 
+<hr>
+
 # **Social Media : 😊**  
   
 
@@ -47,18 +50,19 @@
 - Other Links Page: [implinkssoumojit.vercel.app](https://implinkssoumojit.vercel.app)  
   
 
-- Message Me : [Click](https://soumojit-shome-message-me.vercel.app)  
+- Message Me : [Click here to open message box](https://soumojit-shome-message-me.vercel.app)  
   
 
 <br/>  
 
+<hr>
 
 # **My Skills :**   
 <table><tr><td valign="top" width="33%">
 
 
 
-### Frontend  
+## Frontend:  
 <div align="center">  
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
@@ -93,7 +97,7 @@
 <br/>  
 
 
-## Github Stats  
+# Github Stats :  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=soumojitshome2023&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
@@ -106,10 +110,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=soumojitshome2023&" alt="soumojitshome2023" /></p>
 
-# Links Page :
-
-<iframe style="width: 2000px; height: 400px;" src="https://implinkssoumojit.vercel.app" frameborder="0"></iframe>
-
-# Portfolio : 
-
-<iframe style="width: 2000px; height: 400px;" src="https://iamsoumojit.vercel.app" frameborder="0"></iframe>
