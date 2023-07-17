@@ -10,8 +10,12 @@
 # About Me: 😇  
   
 
+- 🔭 Portfolio [https://iamsoumojit.vercel.app](https://iamsoumojit.vercel.app) 😄  
+
+
 - 🔭 I'm currently working on [My Web 2.O](https://soumojitshome.vercel.app) 😄  
   
+
 
 - 🌱 I'm currently learning HTML, CSS, JavaScript  
   
@@ -78,6 +82,19 @@
 
 <hr>
 
+# **My Projects :**
+- Portfolio Website: [https://iamsoumojit.vercel.app](https://iamsoumojit.vercel.app/) 
+
+- To Do list: [https://todo-webapp-soumojitshome.vercel.app](https://todo-webapp-soumojitshome.vercel.app/) 
+
+- File Sharing App: [https://file-sharing-webapp-soumojit.vercel.app](https://file-sharing-webapp-soumojit.vercel.app) 
+
+- Chat app: [https://chatting-webapp-soumojit.vercel.app](https://chatting-webapp-soumojit.vercel.app/) 
+
+
+<br/>  
+
+<hr>
 
 # **My Skills :**   
 <table><tr><td valign="top" width="33%">
@@ -101,23 +118,28 @@
 
 <br/>  
 
+<br/>  
+
+<hr>
 
 # Connect with me :  
 <div align="center">
-<a href="https://github.com/https://github.com/Soumojitshome2023" target="_blank">
+<a href="https://github.com/Soumojitshome2023" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/soumojit-shome-90a190241" target="_blank">
+<a href="https://www.linkedin.com/in/soumojit-shome-90a190241/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.youtube.com/user/https://youtube.com/@soumojitshome" target="_blank">
+<a href="https://youtube.com/@soumojitshome" target="_blank">
 <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
 </a>  
 </div>  
   
 
 <br/> 
+<br/>  
 
+<hr>
 
 # Github Stats :  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=soumojitshome2023&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
