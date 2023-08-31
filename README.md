@@ -1,4 +1,7 @@
-![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)
+
+![MasterHead](https://i.pinimg.com/originals/4e/de/5a/4ede5a33c5490195b2b17466ad26d124.gif)
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
 <img src="https://drive.google.com/uc?export=view&id=1uXhUSGiaTSzEnNorNkjkj8nMFd9qTlhv" align="center" style="width: 40%" />
@@ -7,7 +10,7 @@
 
 ### <div align="center">Hi 👋, I'm Soumojit Shome.</div><br><div align="center">A passionate frontend developer from India 🚀😀</div>  
   
-<hr>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 # About Me: 😇  
   
@@ -39,7 +42,7 @@
 
 <br/>  
 
-<hr>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 # **Social Media : 😊**  
   
@@ -61,7 +64,7 @@
 
 <br/>  
 
-<hr>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 # **Web Pages :**
 
@@ -82,7 +85,7 @@
 
 <br/>  
 
-<hr>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 # **My Projects :**
 - Portfolio Website: [https://iamsoumojit.vercel.app](https://iamsoumojit.vercel.app/) 
@@ -96,7 +99,7 @@
 
 <br/>  
 
-<hr>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 # **My Skills :**   
 <table><tr><td valign="top" width="33%">
@@ -122,7 +125,7 @@
 
 <br/>  
 
-<hr>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 # Connect with me :  
 <div align="center">
@@ -141,7 +144,7 @@
 <br/> 
 <br/>  
 
-<hr>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 # Github Stats :  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=soumojitshome2023&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
