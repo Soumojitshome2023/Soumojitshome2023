@@ -15,14 +15,14 @@
 # About Me: 😇  
   
 
-- 🔭 Portfolio [https://iamsoumojit.vercel.app](https://iamsoumojit.vercel.app) 😄  
+- 🔭 Portfolio [https://soumojitshome.vercel.app](https://soumojitshome.vercel.app/) 😄  
 
 
 - 🔭 I'm currently working on [My Web 2.O](https://soumojitshome.vercel.app) 😄  
   
 
 
-- 🌱 I'm currently learning HTML, CSS, JavaScript  
+- 🌱 I'm currently learning HTML, CSS, JavaScript, React  
   
 
 - ❓ Ask me about anything related to HTML, CSS, JavaScript  
@@ -53,51 +53,23 @@
 - YouTube: [@soumojitshome](https://youtube.com/@soumojitshome)  
   
 
-- Portfolio Website: [iamsoumojit.vercel.app](https://iamsoumojit.vercel.app)  
+- Portfolio Website: [soumojitshome.vercel.app](https://soumojitshome.vercel.app)  
   
 
 - Other Links Page: [implinkssoumojit.vercel.app](https://implinkssoumojit.vercel.app)  
   
 
-- Message Me : [Click here to open message box](https://soumojit-shome-message-me.vercel.app)  
+- GeeksforGeeks : [soumojits8qiy](https://auth.geeksforgeeks.org/user/soumojits8qiy)  
   
+- LeetCode : [Soumojit_Shome](https://leetcode.com/Soumojit_Shome/)  
 
-<br/>  
+- HackerRank : [soumojitshome201](https://www.hackerrank.com/soumojitshome201?hr_r=1)  
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+- LinkTree : [soumojitshome](https://linktr.ee/soumojitshome)  
 
-# **Web Pages :**
+- Holopin : [@soumojitshome2023](https://www.holopin.io/@soumojitshome2023#)  
 
-- Albert Einstein Tribute Page: [Link](https://oibsip-oasisinfobyte-soumojitshome.vercel.app)  
-  
-
-- My Web Page: [My Web Page](https://soumojitshome.vercel.app)  
-  
-
-- Portfolio Website: [iamsoumojit.vercel.app](https://iamsoumojit.vercel.app)  
-  
-
-- Other Links Page: [implinkssoumojit.vercel.app](https://implinkssoumojit.vercel.app)  
-  
-
-- Message Me : [Click here to open message box](https://soumojit-shome-message-me.vercel.app)  
-  
-
-<br/>  
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-# **My Projects :**
-- Portfolio Website: [https://iamsoumojit.vercel.app](https://iamsoumojit.vercel.app/) 
-
-- To Do list: [https://todo-webapp-soumojitshome.vercel.app](https://todo-webapp-soumojitshome.vercel.app/) 
-
-- File Sharing App: [https://file-sharing-webapp-soumojit.vercel.app](https://file-sharing-webapp-soumojit.vercel.app) 
-
-- Chat app: [https://chatting-webapp-soumojit.vercel.app](https://chatting-webapp-soumojit.vercel.app/) 
-
-
-<br/>  
+<br/>    
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -132,12 +104,15 @@
 <a href="https://github.com/Soumojitshome2023" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
+  
 <a href="https://www.linkedin.com/in/soumojit-shome-90a190241/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
+  
 <a href="https://youtube.com/@soumojitshome" target="_blank">
 <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
 </a>  
+  
 </div>  
   
 
