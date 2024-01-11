@@ -1,5 +1,6 @@
+[![banner](linkedin%20banner.jpg)](https://soumojitshome-blog-web.vercel.app/)
 
-![MasterHead](https://user-images.githubusercontent.com/121761154/291642875-3d485579-31fe-4624-8283-8136202e2828.gif)
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -11,6 +12,26 @@
 ### <div align="center">Hi 👋, I'm Soumojit Shome.</div><br><div align="center">A passionate frontend developer from India 🚀😀</div>  
   
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=soumojitshome2023&label=Profile%20views&color=0e75b6&style=flat" alt="soumojitshome2023" /> </p>
+
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
+<a href="https://www.cprogramming.com/" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
+<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
+<a href="https://git-scm.com/" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+<a href="https://www.python.org" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+<a href="https://www.w3.org/html/" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
+<a href="https://www.w3schools.com/css/" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
+<a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="js" width="40" height="40"/> </a> 
+<a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/> </a> 
+<a href="" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="next" width="40" height="40"/> </a> 
+&nbsp;
+<a href="" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwind" width="40" height="40"/> </a> 
+<a href="" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" alt="firebase" width="40" height="40"/> </a> 
+<a href="" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" alt="github" width="40" height="40"/> </a> 
+<a href="" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="github" width="40" height="40"/> </a> 
+&nbsp;
 
 # About Me: 😇  
   
@@ -18,23 +39,23 @@
 - 🔭 Portfolio [https://soumojitshome.vercel.app](https://soumojitshome.vercel.app/) 😄  
 
 
-- 🔭 I'm currently working on [My Web 2.O](https://soumojitshome.vercel.app) 😄  
+- 🔭 I'm currently working on [LensWorld](https://soumojit-nextjs-lensworld.vercel.app/) 😄  
   
 
 
-- 🌱 I'm currently learning HTML, CSS, JavaScript, React  
+- 🌱 I'm currently learning NextJs, ReactJs  
   
 
-- ❓ Ask me about anything related to HTML, CSS, JavaScript  
+- ❓ Ask me about anything related to NextJs & Firebase 
   
 
 - ⚡ Fun fact: My Code Works I Have No Idea Why :)   
   
 
-- 📫 How to reach me: soumojit.shome@gmail.com  
+- 📫 How to reach me: soumojitshome2021@gmail.com  
   
 
-- 👨‍💻 All of my projects are available at: [My Portfolio](https://iamsoumojit.vercel.app)  
+- 👨‍💻 All of my projects are available at: [My Blog Web](https://soumojitshome-blog-web.vercel.app/projects/)  
   
 
 -  📃 LinkedIn: [soumojit-shome](https://www.linkedin.com/in/soumojit-shome)  
@@ -58,6 +79,7 @@
 
 - Other Links Page: [implinkssoumojit.vercel.app](https://implinkssoumojit.vercel.app)  
   
+- Blog Web Page: [soumojitshome-blog-web.vercel.app](https://soumojitshome-blog-web.vercel.app/)  
 
 - GeeksforGeeks : [soumojits8qiy](https://auth.geeksforgeeks.org/user/soumojits8qiy)  
   
@@ -122,18 +144,21 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 # Github Stats :  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=soumojitshome2023&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<span ><img align="center" src="https://github-readme-stats.vercel.app/api?username=soumojitshome2023&show_icons=true&count_private=true&hide_border=true" align="center" /></span>  
 
 <br/>  
 
 <h3 align="left">Languages and Tools:</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=soumojitshome2023&show_icons=true&locale=en&layout=compact" alt="soumojitshome2023" /></p>
-
-<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=soumojitshome2023&show_icons=true&locale=en" alt="soumojitshome2023" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=soumojitshome2023&" alt="soumojitshome2023" /></p>
+<span><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=soumojitshome2023&show_icons=true&locale=en&layout=compact" alt="soumojitshome2023" /></span>
+<span><img height=200 width=320 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=soumojitshome2023&show_icons=true&theme=radical&locale=en&layout=compact" alt="soumojitshome2023" /></span>
 
 
+<span> <img align="center" src="https://github-readme-stats.vercel.app/api?username=soumojitshome2023&show_icons=true&locale=en" alt="soumojitshome2023" /></span>
+<span><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=soumojitshome2023&" alt="soumojitshome2023" /></span>
+
+<span><img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=soumojitshome2023&show_icons=true&rank_icon=github&theme=radical&card_width=320" /></span>
+
+<br>
 
 <hr>
