@@ -5,7 +5,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
-<img src="https://drive.google.com/uc?export=view&id=1uXhUSGiaTSzEnNorNkjkj8nMFd9qTlhv" align="center" style="width: 40%" />
+<img src="https://avatars.githubusercontent.com/u/121761154?v=4" align="center" style="width: 40%" />
 </div>  
   
 
