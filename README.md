@@ -1,8 +1,8 @@
-[![banner](linkedin%20banner.jpg)](https://soumojitshome-blog-web.vercel.app/)
+![banner](https://github.com/Soumojitshome2023/Soumojitshome2023/blob/main/assets/LinkedinBanner.jpg)
 
 
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://github.com/Soumojitshome2023/Soumojitshome2023/blob/main/assets/LoadingLine.gif">
 
 <div align="center">
 <img src="https://avatars.githubusercontent.com/u/121761154?v=4" align="center" style="width: 40%" />
@@ -15,30 +15,32 @@
   <a href="https://soumojitshome.vercel.app/">Soumojit Shome</a>
 </div>
   
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://github.com/Soumojitshome2023/Soumojitshome2023/blob/main/assets/LoadingLine.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soumojitshome2023&label=Profile%20views&color=0e75b6&style=flat" alt="soumojitshome2023" /> </p>
 
 
 <h3 align="left">Languages and Tools:</h3>
 
 <div style="display: flex; flex-wrap: nowrap;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" style="width:40px; margin-right: 10px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" style="width:40px; margin-right: 10px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" style="width:40px; margin-right: 10px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" style="width:40px; margin-right: 10px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" style="width:40px; margin-right: 10px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="ReactJS" style="width:40px; margin-right: 10px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" style="width:40px; margin-right: 10px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="Firebase" style="width:40px; margin-right: 10px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" style="width:40px; margin-right: 10px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" style="width:40px; margin-right: 10px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" style="width:40px; margin-right: 10px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" style="width:40px; margin-right: 10px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" style="width:40px; margin-right: 10px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" style="width:40px; margin-right: 10px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg" alt="Vercel" style="width:40px; margin-right: 10px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" style="width:40px; margin-right: 10px;">
+    <img src="https://github.com/Soumojitshome2023/Soumojitshome2023/blob/main/assets/c-original.svg" alt="C" style="width:40px; margin-right: 10px;">
+    <img src="https://github.com/Soumojitshome2023/Soumojitshome2023/blob/main/assets/cplusplus-original.svg" alt="C++" style="width:40px; margin-right: 10px;">
+    <img src="https://github.com/Soumojitshome2023/Soumojitshome2023/blob/main/assets/python-original.svg" alt="Python" style="width:40px; margin-right: 10px;">
+    <img src="https://github.com/Soumojitshome2023/Soumojitshome2023/blob/main/assets/java-original.svg" alt="Java" style="width:40px; margin-right: 10px;">
+    <img src="https://github.com/Soumojitshome2023/Soumojitshome2023/blob/main/assets/javascript-original.svg" alt="JavaScript" style="width:40px; margin-right: 10px;">
+    <img src="https://github.com/Soumojitshome2023/Soumojitshome2023/blob/main/assets/react-original.svg" alt="ReactJS" style="width:40px; margin-right: 10px;">
+    <img src="https://github.com/Soumojitshome2023/Soumojitshome2023/blob/main/assets/nextjs-original.svg" alt="Next.js" style="width:40px; margin-right: 10px;">
+    <img src="https://github.com/Soumojitshome2023/Soumojitshome2023/blob/main/assets/firebase-plain.svg" alt="Firebase" style="width:40px; margin-right: 10px;">
+    <img src="https://github.com/Soumojitshome2023/Soumojitshome2023/blob/main/assets/mongodb-original.svg" alt="MongoDB" style="width:40px; margin-right: 10px;">
+    <img src="https://github.com/Soumojitshome2023/Soumojitshome2023/blob/main/assets/tailwindcss-original.svg" alt="Tailwind CSS" style="width:40px; margin-right: 10px;">
+    <img src="https://github.com/Soumojitshome2023/Soumojitshome2023/blob/main/assets/bootstrap-plain.svg" alt="Bootstrap" style="width:40px; margin-right: 10px;">
+    <img src="https://github.com/Soumojitshome2023/Soumojitshome2023/blob/main/assets/github-original.svg" alt="GitHub" style="width:40px; margin-right: 10px;">
+    <img src="https://github.com/Soumojitshome2023/Soumojitshome2023/blob/main/assets/html5-original.svg" alt="HTML" style="width:40px; margin-right: 10px;">
+    <img src="https://github.com/Soumojitshome2023/Soumojitshome2023/blob/main/assets/css3-original.svg" alt="CSS" style="width:40px; margin-right: 10px;">
+    <img src="https://github.com/Soumojitshome2023/Soumojitshome2023/blob/main/assets/nodejs-original.svg" alt="Node.js" width="40">
+    <img src="https://github.com/Soumojitshome2023/Soumojitshome2023/blob/main/assets/vercel-original.svg" alt="Vercel" style="width:40px; margin-right: 10px;">
+    <img src="https://github.com/Soumojitshome2023/Soumojitshome2023/blob/main/assets/figma-original.svg" alt="Figma" style="width:40px; margin-right: 10px;">
+    <img src="https://github.com/Soumojitshome2023/Soumojitshome2023/blob/main/assets/postman-original.svg" alt="Figma" style="width:40px; margin-right: 10px;">
+    <img src="https://github.com/Soumojitshome2023/Soumojitshome2023/blob/main/assets/socketio-original.svg" alt="Figma" style="width:40px; margin-right: 10px;">
 </div>
 
 
@@ -74,7 +76,7 @@
 
 <br/>  
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://github.com/Soumojitshome2023/Soumojitshome2023/blob/main/assets/LoadingLine.gif">
 
 # **✨ Social Media :**  
   
@@ -101,45 +103,50 @@
 
 <br/>    
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://github.com/Soumojitshome2023/Soumojitshome2023/blob/main/assets/LoadingLine.gif">
 
 
 # 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![ReactJS](https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![HTML](https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Node.js](https://img.shields.io/badge/node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![C](https://github.com/Soumojitshome2023/Soumojitshome2023/blob/main/assets/badge/c-badge.svg)
+![C++](https://github.com/Soumojitshome2023/Soumojitshome2023/blob/main/assets/badge/cpp-badge.svg)
+![Python](https://github.com/Soumojitshome2023/Soumojitshome2023/blob/main/assets/badge/python-badge.svg)
+![Java](https://github.com/Soumojitshome2023/Soumojitshome2023/blob/main/assets/badge/java-badge.svg)
+![JavaScript](https://github.com/Soumojitshome2023/Soumojitshome2023/blob/main/assets/badge/javascript-badge.svg)
+![ReactJS](https://github.com/Soumojitshome2023/Soumojitshome2023/blob/main/assets/badge/react-badge.svg)
+![Next.js](https://github.com/Soumojitshome2023/Soumojitshome2023/blob/main/assets/badge/nextjs-badge.svg)
+![Firebase](https://github.com/Soumojitshome2023/Soumojitshome2023/blob/main/assets/badge/firebase-badge.svg)
+![MongoDB](https://github.com/Soumojitshome2023/Soumojitshome2023/blob/main/assets/badge/mongodb-badge.svg)
+![Tailwind CSS](https://github.com/Soumojitshome2023/Soumojitshome2023/blob/main/assets/badge/tailwindcss-badge.svg)
+![Bootstrap](https://github.com/Soumojitshome2023/Soumojitshome2023/blob/main/assets/badge/bootstrap-badge.svg)
+![GitHub](https://github.com/Soumojitshome2023/Soumojitshome2023/blob/main/assets/badge/github-badge.svg)
+![HTML](https://github.com/Soumojitshome2023/Soumojitshome2023/blob/main/assets/badge/html-badge.svg)
+![CSS](https://github.com/Soumojitshome2023/Soumojitshome2023/blob/main/assets/badge/css-badge.svg)
+![Vercel](https://github.com/Soumojitshome2023/Soumojitshome2023/blob/main/assets/badge/vercel-badge.svg)
+![Node.js](https://github.com/Soumojitshome2023/Soumojitshome2023/blob/main/assets/badge/nodejs-badge.svg)
+![Figma](https://github.com/Soumojitshome2023/Soumojitshome2023/blob/main/assets/badge/figma-badge.svg)
+![Canva](https://github.com/Soumojitshome2023/Soumojitshome2023/blob/main/assets/badge/canva-badge.svg)
+![SocketIo](https://github.com/Soumojitshome2023/Soumojitshome2023/blob/main/assets/badge/socketio-badge.svg)
+![Postman](https://github.com/Soumojitshome2023/Soumojitshome2023/blob/main/assets/badge/postman-badge.svg)
+![NPM](https://github.com/Soumojitshome2023/Soumojitshome2023/blob/main/assets/badge/npm-badge.svg)
+![Netlify](https://github.com/Soumojitshome2023/Soumojitshome2023/blob/main/assets/badge/netlify-badge.svg)
 
 
 <br/>  
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://github.com/Soumojitshome2023/Soumojitshome2023/blob/main/assets/LoadingLine.gif">
 
 # ✨ Connect with me :  
 <div align="center">
 <a href="https://github.com/Soumojitshome2023" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+<img src="https://github.com/Soumojitshome2023/Soumojitshome2023/blob/main/assets/badge/github-badge.svg" alt="github" style="margin-bottom: 5px;" />
 </a>
   
 <a href="https://www.linkedin.com/in/soumojit-shome-90a190241/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+<img src="https://github.com/Soumojitshome2023/Soumojitshome2023/blob/main/assets/badge/linkedin-badge.svg" alt="linkedin" style="margin-bottom: 5px;" />
 </a>
   
 <a href="https://youtube.com/@soumojitshome" target="_blank">
-<img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
+<img src="https://github.com/Soumojitshome2023/Soumojitshome2023/blob/main/assets/badge/youtube-badge.svg" alt="youtube" style="margin-bottom: 5px;" />
 </a>  
   
 </div>  
@@ -148,7 +155,7 @@
 <br/> 
 <br/>  
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://github.com/Soumojitshome2023/Soumojitshome2023/blob/main/assets/LoadingLine.gif">
 
 # ✨ Github Stats :  
 <span ><img align="center" src="https://github-readme-stats.vercel.app/api?username=soumojitshome2023&show_icons=true&count_private=true&hide_border=true" align="center" /></span>  
@@ -164,6 +171,13 @@
 <span><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=soumojitshome2023&" alt="soumojitshome2023" /></span>
 
 <span><img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=soumojitshome2023&show_icons=true&rank_icon=github&theme=radical&card_width=320" /></span>
+
+
+[![An image of @soumojitshome2023's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/soumojitshome2023)](https://holopin.io/@soumojitshome2023)
+
+![Graph](https://github-readme-activity-graph.vercel.app/graph?username=Soumojitshome2023&theme=react-dark)
+
+![wave-animation-bottom](https://github.com/Soumojitshome2023/Soumojitshome2023/blob/main/assets/wave-animation-bottom.svg)
 
 <br>
 
