@@ -53,7 +53,7 @@
 - 🔭 Portfolio [https://soumojitshome.vercel.app](https://soumojitshome.vercel.app/) 😄  
 
 
-- 🔭 I'm currently working on [LensWorld](https://lensworld.vercel.app/) 😄  
+- 🔭 I'm currently working on [LastMinuteEngineering](https://lastminuteengineering.vercel.app/) 😄  
   
 
 - 🌱 I'm currently learning NextJs, ReactJs  
