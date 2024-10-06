@@ -2,7 +2,7 @@
 
 
 
-<img src="https://soumojitshomeblog.vercel.app/assets/LoadingLine.gif">
+<img src="https://soumojitshomeblog.vercel.app/assets/LoadingLine.gif" style="width: 100%" >
 
 <div align="center">
 <img src="https://avatars.githubusercontent.com/u/121761154?v=4" align="center" style="width: 40%" />
@@ -10,12 +10,13 @@
   
 
 ## <div align="center">Hi 👋, I'm Soumojit Shome.</div>
-### <div align="center">A passionate frontend developer from India 🚀😀</div>  
+### <div align="center">A passionate full stack developer from India 🚀😀</div>  
 <div align="center">
   <a href="https://soumojitshome.vercel.app/">Soumojit Shome</a>
 </div>
   
-<img src="https://soumojitshomeblog.vercel.app/assets/LoadingLine.gif">
+<img src="https://soumojitshomeblog.vercel.app/assets/LoadingLine.gif" style="width: 100%" >
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soumojitshome2023&label=Profile%20views&color=0e75b6&style=flat" alt="soumojitshome2023" /> </p>
 
 
@@ -76,7 +77,7 @@
 
 <br/>  
 
-<img src="https://soumojitshomeblog.vercel.app/assets/LoadingLine.gif">
+<img src="https://soumojitshomeblog.vercel.app/assets/LoadingLine.gif" style="width: 100%">
 
 # **✨ Social Media :**  
   
@@ -103,7 +104,7 @@
 
 <br/>    
 
-<img src="https://soumojitshomeblog.vercel.app/assets/LoadingLine.gif">
+<img src="https://soumojitshomeblog.vercel.app/assets/LoadingLine.gif" style="width: 100%">
 
 
 # 💻 Tech Stack:
@@ -133,7 +134,7 @@
 
 <br/>  
 
-<img src="https://soumojitshomeblog.vercel.app/assets/LoadingLine.gif">
+<img src="https://soumojitshomeblog.vercel.app/assets/LoadingLine.gif" style="width: 100%">
 
 # ✨ Connect with me :  
 <div align="center">
@@ -153,30 +154,25 @@
 <br/> 
 <br/>  
 
-<img src="https://soumojitshomeblog.vercel.app/assets/LoadingLine.gif">
+<img src="https://soumojitshomeblog.vercel.app/assets/LoadingLine.gif" style="width: 100%">
 
 # ✨ Github Stats :  
-<span ><img align="center" src="https://github-readme-stats.vercel.app/api?username=soumojitshome2023&show_icons=true&count_private=true&hide_border=true" align="center" /></span>  
-
-<br/>  
 
 
 <span><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=soumojitshome2023&show_icons=true&locale=en&layout=compact" alt="soumojitshome2023" /></span>
 <span><img height=200 width=320 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=soumojitshome2023&show_icons=true&theme=radical&locale=en&layout=compact" alt="soumojitshome2023" /></span>
+<span><img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=soumojitshome2023&show_icons=true&rank_icon=github&theme=radical&card_width=320" /></span>
 
 
-<span> <img align="center" src="https://github-readme-stats.vercel.app/api?username=soumojitshome2023&show_icons=true&locale=en" alt="soumojitshome2023" /></span>
+<span> <img  align="center" src="https://github-readme-stats.vercel.app/api?username=soumojitshome2023&show_icons=true&locale=en" alt="soumojitshome2023" /></span>
 <span><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=soumojitshome2023&" alt="soumojitshome2023" /></span>
 
-<span><img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=soumojitshome2023&show_icons=true&rank_icon=github&theme=radical&card_width=320" /></span>
+
 
 
 [![An image of @soumojitshome2023's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/soumojitshome2023)](https://holopin.io/@soumojitshome2023)
 
 ![Graph](https://github-readme-activity-graph.vercel.app/graph?username=Soumojitshome2023&theme=react-dark)
 
-![wave-animation-bottom](https://soumojitshomeblog.vercel.app/assets/techstacksvg/wave-animation-bottom.svg)
-
-<br>
 
 <hr>
