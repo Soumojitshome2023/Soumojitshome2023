@@ -53,31 +53,12 @@
 
 - 🔭 Portfolio [https://soumojitshome.vercel.app](https://soumojitshome.vercel.app/) 😄  
 
-
-- 🔭 I'm currently working on [LastMinuteEngineering](https://lastminuteengineering.vercel.app/) 😄  
-  
-
-- 🌱 I'm currently learning NextJs, ReactJs  
-  
-
-- ❓ Ask me about anything related to NextJs & Firebase 
-  
-
-- ⚡ Fun fact: My Code Works I Have No Idea Why :)   
-  
-
-- 📫 How to reach me: soumojitshome2021@gmail.com  
-  
-
 - 👨‍💻 All of my projects are available at: [My Blog Web](https://soumojitshome-blog-web.vercel.app/projects/)  
   
-
 -  📃 LinkedIn: [soumojit-shome](https://www.linkedin.com/in/soumojit-shome)  
   
 
 <br/>  
-
-<img src="https://soumojitshomeblog.vercel.app/assets/LoadingLine.gif" style="width: 100%">
 
 # **✨ Social Media :**  
   
@@ -92,19 +73,7 @@
   
 - Blog Web Page: [soumojitshome-blog-web.vercel.app](https://soumojitshome-blog-web.vercel.app/)  
 
-- GeeksforGeeks : [soumojits8qiy](https://auth.geeksforgeeks.org/user/soumojits8qiy)  
-  
-- LeetCode : [Soumojit_Shome](https://leetcode.com/Soumojit_Shome/)  
-
-- HackerRank : [soumojitshome201](https://www.hackerrank.com/soumojitshome201?hr_r=1)  
-
-- LinkTree : [soumojitshome](https://linktr.ee/soumojitshome)  
-
-- Holopin : [@soumojitshome2023](https://www.holopin.io/@soumojitshome2023#)  
-
 <br/>    
-
-<img src="https://soumojitshomeblog.vercel.app/assets/LoadingLine.gif" style="width: 100%">
 
 
 # 💻 Tech Stack:
@@ -134,43 +103,8 @@
 
 <br/>  
 
-<img src="https://soumojitshomeblog.vercel.app/assets/LoadingLine.gif" style="width: 100%">
-
-# ✨ Connect with me :  
-<div align="center">
-<a href="https://github.com/Soumojitshome2023" target="_blank">
-<img src="https://soumojitshomeblog.vercel.app/assets/badge/github-badge.svg" alt="github" style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.linkedin.com/in/soumojit-shome-90a190241/" target="_blank">
-<img src="https://soumojitshomeblog.vercel.app/assets/badge/linkedin-badge.svg" alt="linkedin" style="margin-bottom: 5px;" />
-</a>
-<a href="https://youtube.com/@soumojitshome" target="_blank">
-<img src="https://soumojitshomeblog.vercel.app/assets/badge/youtube-badge.svg" alt="youtube" style="margin-bottom: 5px;" />
-</a>  
-  
-</div>  
-  
-
-<br/> 
-<br/>  
-
-<img src="https://soumojitshomeblog.vercel.app/assets/LoadingLine.gif" style="width: 100%">
 
 # ✨ Github Stats :  
-
-
-<span><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=soumojitshome2023&show_icons=true&locale=en&layout=compact" alt="soumojitshome2023" /></span>
-<span><img height=200 width=320 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=soumojitshome2023&show_icons=true&theme=radical&locale=en&layout=compact" alt="soumojitshome2023" /></span>
-<span><img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=soumojitshome2023&show_icons=true&rank_icon=github&theme=radical&card_width=320" /></span>
-
-
-<span> <img  align="center" src="https://github-readme-stats.vercel.app/api?username=soumojitshome2023&show_icons=true&locale=en" alt="soumojitshome2023" /></span>
-<span><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=soumojitshome2023&" alt="soumojitshome2023" /></span>
-
-
-
-
-[![An image of @soumojitshome2023's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/soumojitshome2023)](https://holopin.io/@soumojitshome2023)
 
 ![Graph](https://github-readme-activity-graph.vercel.app/graph?username=Soumojitshome2023&theme=react-dark)
 
