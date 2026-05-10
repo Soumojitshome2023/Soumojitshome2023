@@ -106,7 +106,9 @@
 
 # ✨ Github Stats :  
 
-![Graph](https://github-readme-activity-graph.vercel.app/graph?username=Soumojitshome2023&theme=react-dark)
+
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=soumojitshome2023)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Soumojitshome2023&theme=react-dark)
 
 
 <hr>
