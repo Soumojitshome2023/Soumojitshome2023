@@ -1,114 +1,103 @@
-![banner](https://soumojitshomeblog.vercel.app/assets/LinkedinBanner.jpg)
+<p align="center">
+  <img src="https://soumojitshomeblog.vercel.app/assets/LinkedinBanner.jpg" alt="Soumojit Shome Banner" width="100%" />
+</p>
 
-
-
-<img src="https://soumojitshomeblog.vercel.app/assets/LoadingLine.gif" style="width: 100%" >
+<img src="https://soumojitshomeblog.vercel.app/assets/LoadingLine.gif" style="width: 100%" />
 
 <div align="center">
-<img src="https://avatars.githubusercontent.com/u/121761154?v=4" align="center" style="width: 40%" />
-</div>  
+  <h1>Hi there, I'm Soumojit Shome 👋</h1>
+  <p><strong>Founding AI Engineer @ SereAI | B.Tech ECE Student @ Academy of Technology | Full Stack Developer</strong></p>
   
-
-## <div align="center">Hi 👋, I'm Soumojit Shome.</div>
-### <div align="center">A passionate full stack developer from India 🚀😀</div>  
-<div align="center">
-  <a href="https://soumojitshome.vercel.app/">Soumojit Shome</a>
-</div>
-  
-<img src="https://soumojitshomeblog.vercel.app/assets/LoadingLine.gif" style="width: 100%" >
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=soumojitshome2023&label=Profile%20views&color=0e75b6&style=flat" alt="soumojitshome2023" /> </p>
-
-
-<h3 align="left">Languages and Tools:</h3>
-
-<div style="display: flex; flex-wrap: nowrap;">
-    <img src="https://soumojitshomeblog.vercel.app/assets/techstacksvg/c-original.svg" alt="C" style="width:40px; margin-right: 10px;">
-    <img src="https://soumojitshomeblog.vercel.app/assets/techstacksvg/cplusplus-original.svg" alt="C++" style="width:40px; margin-right: 10px;">
-    <img src="https://soumojitshomeblog.vercel.app/assets/techstacksvg/python-original.svg" alt="Python" style="width:40px; margin-right: 10px;">
-    <img src="https://soumojitshomeblog.vercel.app/assets/techstacksvg/java-original.svg" alt="Java" style="width:40px; margin-right: 10px;">
-    <img src="https://soumojitshomeblog.vercel.app/assets/techstacksvg/javascript-original.svg" alt="JavaScript" style="width:40px; margin-right: 10px;">
-    <img src="https://soumojitshomeblog.vercel.app/assets/techstacksvg/react-original.svg" alt="ReactJS" style="width:40px; margin-right: 10px;">
-    <img src="https://soumojitshomeblog.vercel.app/assets/techstacksvg/nextjs-original.svg" alt="Next.js" style="width:40px; margin-right: 10px;">
-    <img src="https://soumojitshomeblog.vercel.app/assets/techstacksvg/firebase-plain.svg" alt="Firebase" style="width:40px; margin-right: 10px;">
-    <img src="https://soumojitshomeblog.vercel.app/assets/techstacksvg/mongodb-original.svg" alt="MongoDB" style="width:40px; margin-right: 10px;">
-    <img src="https://soumojitshomeblog.vercel.app/assets/techstacksvg/tailwindcss-original.svg" alt="Tailwind CSS" style="width:40px; margin-right: 10px;">
-    <img src="https://soumojitshomeblog.vercel.app/assets/techstacksvg/bootstrap-plain.svg" alt="Bootstrap" style="width:40px; margin-right: 10px;">
-    <img src="https://soumojitshomeblog.vercel.app/assets/techstacksvg/github-original.svg" alt="GitHub" style="width:40px; margin-right: 10px;">
-    <img src="https://soumojitshomeblog.vercel.app/assets/techstacksvg/html5-original.svg" alt="HTML" style="width:40px; margin-right: 10px;">
-    <img src="https://soumojitshomeblog.vercel.app/assets/techstacksvg/css3-original.svg" alt="CSS" style="width:40px; margin-right: 10px;">
-    <img src="https://soumojitshomeblog.vercel.app/assets/techstacksvg/nodejs-original.svg" alt="Node.js" width="40">
-    <img src="https://soumojitshomeblog.vercel.app/assets/techstacksvg/vercel-original.svg" alt="Vercel" style="width:40px; margin-right: 10px;">
-    <img src="https://soumojitshomeblog.vercel.app/assets/techstacksvg/figma-original.svg" alt="Figma" style="width:40px; margin-right: 10px;">
-    <img src="https://soumojitshomeblog.vercel.app/assets/techstacksvg/postman-original.svg" alt="Figma" style="width:40px; margin-right: 10px;">
-    <img src="https://soumojitshomeblog.vercel.app/assets/techstacksvg/socketio-original.svg" alt="Figma" style="width:40px; margin-right: 10px;">
+  <p align="center">
+    <a href="https://soumojitshome.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-soumojitshome.vercel.app-00bcd4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
+    <a href="https://www.linkedin.com/in/soumojit-shome"><img src="https://img.shields.io/badge/LinkedIn-soumojit--shome-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://soumojitshome-blog-web.vercel.app/"><img src="https://img.shields.io/badge/Blog-Soumojit's%20Blog-ff5722?style=for-the-badge&logo=blogger&logoColor=white" alt="Blog" /></a>
+    <a href="https://youtube.com/@soumojitshome"><img src="https://img.shields.io/badge/YouTube-@soumojitshome-ff0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
+  </p>
 </div>
 
+<img src="https://soumojitshomeblog.vercel.app/assets/LoadingLine.gif" style="width: 100%" />
 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=soumojitshome2023&label=Profile%20views&color=0e75b6&style=flat-square" alt="soumojitshome2023 profile views" />
+</p>
 
-&nbsp;
+## ⚡ About Me
 
-# **✨ About Me:**  
-  
+I am a final-year **Electronics & Communication Engineering (ECE)** student with a deep passion for building high-performance, user-centric full-stack web applications, GenAI orchestration systems, and IoT innovations. I love exploring the intersection of software engineering and hardware safety/automation to design smart, impactful solutions.
 
-- 🔭 Portfolio [https://soumojitshome.vercel.app](https://soumojitshome.vercel.app/) 😄  
+* 🔭 **Current Focus:** Building cognitive memory systems and multi-agent routers as a Founding AI Engineer.
+* 👨‍💻 **Projects Portal:** Check out my detailed project logs at [soumojitshome-blog-web.vercel.app](https://soumojitshome-blog-web.vercel.app/).
+* 🗺️ **Based In:** Chinsurah, West Bengal, India.
+* ✉️ **Let's Connect:** [LinkedIn](https://www.linkedin.com/in/soumojit-shome) or explore my other channels at [implinkssoumojit.vercel.app](https://implinkssoumojit.vercel.app).
 
-- 👨‍💻 All of my projects are available at: [My Blog Web](https://soumojitshome-blog-web.vercel.app/projects/)  
-  
--  📃 LinkedIn: [soumojit-shome](https://www.linkedin.com/in/soumojit-shome)  
-  
+---
 
-<br/>  
+## 💼 Experience & Roles
 
-# **✨ Social Media :**  
-  
+### 🚀 **Founding AI Engineer** — *SereAI* (Apr 2026 - Present)
+* **AI Orchestration & Cognitive Memory:** Architected a multi-agent router directing queries to specialized engines (Visualizer, Learning, Solver) backed by a three-tier cognitive memory profile (Recent, Profile, Structured).
+* **AI Backends:** Designed robust API load balancing for Gemini keys with quota-aware retry strategies and token monitoring.
+* **Premium UX/UI:** Crafted an interactive developer UI using Tailwind CSS 4, Mermaid.js, Excalidraw, and Vega-Lite.
 
-- LinkedIn: [soumojit-shome](https://www.linkedin.com/in/soumojit-shome)  
-  
-- YouTube: [@soumojitshome](https://youtube.com/@soumojitshome)  
-  
-- Portfolio Website: [soumojitshome.vercel.app](https://soumojitshome.vercel.app)  
-  
-- Other Links Page: [implinkssoumojit.vercel.app](https://implinkssoumojit.vercel.app)  
-  
-- Blog Web Page: [soumojitshome-blog-web.vercel.app](https://soumojitshome-blog-web.vercel.app/)  
+### 💻 **System Engineer** — *LastMinuteEngineering* (Jul 2024 - Oct 2025)
+* **Platform Scalability:** Built the robust core backend REST APIs from scratch using Node.js, Express, and MongoDB.
+* **Financial Integrations:** Handled secure payment gateways (Razorpay) with comprehensive webhook logging and automated status verification.
+* **Reliability:** Formulated error logging, database schemas, index tuning, and performance profiling.
 
-<br/>    
+### 👥 **Tech Lead** — *Students' Chapter of IEI ECE | AOT* (Nov 2023 - Nov 2024)
+* **Web Design & Leadership:** Directed the design and end-to-end development of the official IEI ECE chapter portal using Next.js.
+* **Community Building:** Mentored junior students in web programming, git, and embedded systems integrations.
 
+### ☁️ **Salesforce Developer & Agentblazer Champion** — *SmartBridge / AICTE* (May 2025 - Aug 2025)
+* Custom CRM automation, object modeling, Apex triggers, and interactive Lightning Web Components (LWC).
 
-# 💻 Tech Stack:
-![C](https://soumojitshomeblog.vercel.app/assets/badge/c-badge.svg)
-![C++](https://soumojitshomeblog.vercel.app/assets/badge/cpp-badge.svg)
-![Python](https://soumojitshomeblog.vercel.app/assets/badge/python-badge.svg)
-![Java](https://soumojitshomeblog.vercel.app/assets/badge/java-badge.svg)
-![JavaScript](https://soumojitshomeblog.vercel.app/assets/badge/javascript-badge.svg)
-![ReactJS](https://soumojitshomeblog.vercel.app/assets/badge/react-badge.svg)
-![Next.js](https://soumojitshomeblog.vercel.app/assets/badge/nextjs-badge.svg)
-![Firebase](https://soumojitshomeblog.vercel.app/assets/badge/firebase-badge.svg)
-![MongoDB](https://soumojitshomeblog.vercel.app/assets/badge/mongodb-badge.svg)
-![Tailwind CSS](https://soumojitshomeblog.vercel.app/assets/badge/tailwindcss-badge.svg)
-![Bootstrap](https://soumojitshomeblog.vercel.app/assets/badge/bootstrap-badge.svg)
-![GitHub](https://soumojitshomeblog.vercel.app/assets/badge/github-badge.svg)
-![HTML](https://soumojitshomeblog.vercel.app/assets/badge/html-badge.svg)
-![CSS](https://soumojitshomeblog.vercel.app/assets/badge/css-badge.svg)
-![Vercel](https://soumojitshomeblog.vercel.app/assets/badge/vercel-badge.svg)
-![Node.js](https://soumojitshomeblog.vercel.app/assets/badge/nodejs-badge.svg)
-![Figma](https://soumojitshomeblog.vercel.app/assets/badge/figma-badge.svg)
-![Canva](https://soumojitshomeblog.vercel.app/assets/badge/canva-badge.svg)
-![SocketIo](https://soumojitshomeblog.vercel.app/assets/badge/socketio-badge.svg)
-![Postman](https://soumojitshomeblog.vercel.app/assets/badge/postman-badge.svg)
-![NPM](https://soumojitshomeblog.vercel.app/assets/badge/npm-badge.svg)
-![Netlify](https://soumojitshomeblog.vercel.app/assets/badge/netlify-badge.svg)
+---
 
+## 🛠️ Languages & Technologies
 
-<br/>  
+### 🌐 Web & Backend Development
+![](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+![](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
 
+### 🤖 Generative AI & Tooling
+![](https://img.shields.io/badge/Gemini_AI-8E75C2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![](https://img.shields.io/badge/Mermaid.js-FF6F61?style=for-the-badge&logo=mermaid&logoColor=white)
+![](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-# ✨ Github Stats :  
+### ⚙️ Languages & IoT / Systems
+![](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![](https://img.shields.io/badge/IoT_&_ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white)
 
+---
 
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=soumojitshome2023)
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Soumojitshome2023&theme=react-dark)
+## 🏆 Judging & Mentorship
 
+* 🎤 **Judge & Mentor @ IEM Diversion 2K26** (Feb 2026) — Evaluated project scalability, tech stacks, UI/UX, and mentored 20+ teams.
+* 🎤 **Judge @ Smart Make-A-Thon (SMF 2025)** (Sep 2025) — Evaluated 24 competing teams on system feasibility, design, and market potential.
+
+---
+
+## 📊 GitHub Metrics
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=soumojitshome2023&theme=dark" alt="Soumojit's Streak Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Soumojitshome2023&theme=react-dark" alt="Soumojit's Activity Graph" width="100%" />
+</p>
 
 <hr>
