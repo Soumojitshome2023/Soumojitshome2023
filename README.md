@@ -1,8 +1,9 @@
 <div align="center">
   <h1>Hi there, I'm Soumojit Shome 👋</h1>
+  <p><strong>Founding AI Engineer @ SereAI | B.Tech ECE Student @ Academy of Technology | Full Stack Developer</strong></p>
   
   <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00bcd4&center=true&vCenter=true&width=500&height=40&lines=Founding+AI+Engineer;Full+Stack+Web+Developer;IoT+and+Systems+Explorer;ECE+Engineering+Student" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00bcd4&center=true&vCenter=true&width=500&height=40&lines=Founding+AI+Engineer+SereAI;Full+Stack+Web+Developer;IoT+and+Systems+Explorer;ECE+Engineering+Student" alt="Typing SVG" />
   </p>
 
   <p align="center">
@@ -32,12 +33,12 @@ I am a final-year **Electronics & Communication Engineering (ECE)** student with
 
 ## 💼 Experience & Roles
 
-### 🚀 **Founding AI Engineer** — *SereAI* (Apr 2026 - Present) `[Personal Project]`
+### 🚀 **Founding AI Engineer** — [*SereAI*](https://sere-ai.vercel.app/) (Apr 2026 - Present) `[Personal Project]`
 * **AI Orchestration & Cognitive Memory:** Architected a multi-agent router directing queries to specialized engines (Visualizer, Learning, Solver) backed by a three-tier cognitive memory profile (Recent, Profile, Structured).
 * **AI Backends:** Designed robust API load balancing for Gemini keys with quota-aware retry strategies and token monitoring.
 * **Premium UX/UI:** Crafted an interactive developer UI using Tailwind CSS 4, Mermaid.js, Excalidraw, and Vega-Lite.
 
-### 💻 **System Engineer** — *LastMinuteEngineering* (Jul 2024 - Oct 2025)
+### 💻 **System Engineer** — [*LastMinuteEngineering*](https://lastminuteengineering.vercel.app/) (Jul 2024 - Oct 2025)
 * **Platform Scalability:** Built the robust core backend REST APIs from scratch using Node.js, Express, and MongoDB.
 * **Financial Integrations:** Handled secure payment gateways (Razorpay) with comprehensive webhook logging and automated status verification.
 * **Reliability:** Formulated error logging, database schemas, index tuning, and performance profiling.
@@ -57,7 +58,7 @@ I am a final-year **Electronics & Communication Engineering (ECE)** student with
 * **Core:** Next.js, Gemini AI, Tailwind CSS 4, Mermaid.js, Excalidraw, Node.js, Vega-Lite
 * **Highlights:** Automatically routes queries to specialized engines using a custom AI orchestrator, retains deep context via a three-tier cognitive memory profile, and visualizes dynamic data/system architecture diagrams.
 
-### 📚 [LastMinuteEngineering](https://soumojitshomeblog.vercel.app/projects/lastminuteengineering/) — *Full-Stack Academic Platform*
+### 📚 [LastMinuteEngineering](https://lastminuteengineering.vercel.app/) — *Full-Stack Academic Platform*
 * **Core:** Next.js, Node.js, Express.js, MongoDB, Razorpay, JavaScript, GCP
 * **Highlights:** Scalable educational platform for engineering students with secure payment gateways, webhook verification, and robust exception monitoring.
 
