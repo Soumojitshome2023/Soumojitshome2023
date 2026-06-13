@@ -54,6 +54,26 @@ I am a final-year **Electronics & Communication Engineering (ECE)** student with
 
 ---
 
+## 🛠️ Featured Projects
+
+### 🤖 [SereAI](https://sere-ai.vercel.app/) — *High-Fidelity Engineering Study Tool*
+* **Core:** Next.js, Gemini AI, Tailwind CSS 4, Mermaid.js, Excalidraw, Node.js, Vega-Lite
+* **Highlights:** Automatically routes queries to specialized engines using a custom AI orchestrator, retains deep context via a three-tier cognitive memory profile, and visualizes dynamic data/system architecture diagrams.
+
+### 📚 [LastMinuteEngineering](https://soumojitshomeblog.vercel.app/projects/lastminuteengineering/) — *Full-Stack Academic Platform*
+* **Core:** Next.js, Node.js, Express.js, MongoDB, Razorpay, JavaScript, GCP
+* **Highlights:** Scalable educational platform for engineering students with secure payment gateways, webhook verification, and robust exception monitoring.
+
+### 💬 Andromeda Chat WebApp — *Real-Time Instant Messenger*
+* **Core:** Socket.io, React.js, Node.js, Express.js, Tailwind CSS
+* **Highlights:** Real-time chat web application designed for low-latency messaging, active connection status monitoring, and seamless file transfer capabilities.
+
+### 🚗 WiFi Controlled Car (ESP32) — *Embedded IoT System*
+* **Core:** ESP32 Microcontroller, C++, HTML/CSS Web Server, Motor Driver
+* **Highlights:** Created a hardware prototype controlled wirelessly over a custom-designed web interface hosted directly on the ESP32 server.
+
+---
+
 ## 🛠️ Languages & Technologies
 
 ### 🌐 Web & Backend Development
