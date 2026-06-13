@@ -35,7 +35,7 @@ I am a final-year **Electronics & Communication Engineering (ECE)** student with
 
 ## 💼 Experience & Roles
 
-### 🚀 **Founding AI Engineer** — *SereAI* (Apr 2026 - Present)
+### 🚀 **Founding AI Engineer** — *SereAI* (Apr 2026 - Present) `[Personal Project]`
 * **AI Orchestration & Cognitive Memory:** Architected a multi-agent router directing queries to specialized engines (Visualizer, Learning, Solver) backed by a three-tier cognitive memory profile (Recent, Profile, Structured).
 * **AI Backends:** Designed robust API load balancing for Gemini keys with quota-aware retry strategies and token monitoring.
 * **Premium UX/UI:** Crafted an interactive developer UI using Tailwind CSS 4, Mermaid.js, Excalidraw, and Vega-Lite.
