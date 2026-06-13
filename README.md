@@ -1,13 +1,10 @@
-<p align="center">
-  <img src="https://soumojitshomeblog.vercel.app/assets/LinkedinBanner.jpg" alt="Soumojit Shome Banner" width="100%" />
-</p>
-
-<img src="https://soumojitshomeblog.vercel.app/assets/LoadingLine.gif" style="width: 100%" />
-
 <div align="center">
   <h1>Hi there, I'm Soumojit Shome 👋</h1>
-  <p><strong>Founding AI Engineer @ SereAI | B.Tech ECE Student @ Academy of Technology | Full Stack Developer</strong></p>
   
+  <p align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00bcd4&center=true&vCenter=true&width=500&height=40&lines=Founding+AI+Engineer;Full+Stack+Web+Developer;IoT+and+Systems+Explorer;ECE+Engineering+Student" alt="Typing SVG" />
+  </p>
+
   <p align="center">
     <a href="https://soumojitshome.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-soumojitshome.vercel.app-00bcd4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
     <a href="https://www.linkedin.com/in/soumojit-shome"><img src="https://img.shields.io/badge/LinkedIn-soumojit--shome-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -18,9 +15,9 @@
 
 <img src="https://soumojitshomeblog.vercel.app/assets/LoadingLine.gif" style="width: 100%" />
 
-<p align="left">
+<div align="center">
   <img src="https://komarev.com/ghpvc/?username=soumojitshome2023&label=Profile%20views&color=0e75b6&style=flat-square" alt="soumojitshome2023 profile views" />
-</p>
+</div>
 
 ## ⚡ About Me
 
@@ -76,30 +73,45 @@ I am a final-year **Electronics & Communication Engineering (ECE)** student with
 
 ## 🛠️ Languages & Technologies
 
-### 🌐 Web & Backend Development
-![](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+### 🌐 Frontend & Core Web
 ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+
+### 🖥️ Backend & Databases
 ![](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+![](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+![](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![](https://img.shields.io/badge/Razorpay-0c2a4a?style=for-the-badge&logo=razorpay&logoColor=white)
 
-### 🤖 Generative AI & Tooling
+### 🤖 Generative AI, Cloud & Tools
 ![](https://img.shields.io/badge/Gemini_AI-8E75C2?style=for-the-badge&logo=googlegemini&logoColor=white)
 ![](https://img.shields.io/badge/Mermaid.js-FF6F61?style=for-the-badge&logo=mermaid&logoColor=white)
-![](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
 ![](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![](https://img.shields.io/badge/Netlify-00C8BC?style=for-the-badge&logo=netlify&logoColor=white)
+![](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 
-### ⚙️ Languages & IoT / Systems
+### ⚙️ Programming Languages & Systems
+![](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![](https://img.shields.io/badge/IoT_&_ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white)
+![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
