@@ -1,9 +1,9 @@
 <div align="center">
   <h1>Hi there, I'm Soumojit Shome 👋</h1>
-  <p><strong>Founding AI Engineer @ SereAI | B.Tech ECE Student @ Academy of Technology | Full Stack Developer</strong></p>
+  <p><strong>Founding AI Engineer @ SereAI | B.Tech ECE Student @ Academy of Technology | Gen & Agentic AI Developer | Full Stack Developer</strong></p>
   
   <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00bcd4&center=true&vCenter=true&width=500&height=40&lines=Founding+AI+Engineer+SereAI;Full+Stack+Web+Developer;IoT+and+Systems+Explorer;ECE+Engineering+Student" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00bcd4&center=true&vCenter=true&width=500&height=40&lines=Founding+AI+Engineer+SereAI;Gen+%26+Agentic+AI+Developer;Full+Stack+Web+Developer;IoT+and+Systems+Explorer;ECE+Engineering+Student" alt="Typing SVG" />
   </p>
 
   <p align="center">
@@ -22,9 +22,9 @@
 
 ## ⚡ About Me
 
-I am a final-year **Electronics & Communication Engineering (ECE)** student with a deep passion for building high-performance, user-centric full-stack web applications, GenAI orchestration systems, and IoT innovations. I love exploring the intersection of software engineering and hardware safety/automation to design smart, impactful solutions.
+I am a final-year **Electronics & Communication Engineering (ECE)** student with a deep passion for building high-performance, user-centric full-stack web applications, Agentic AI orchestration systems, and IoT innovations. I love exploring the intersection of software engineering and hardware safety/automation to design smart, impactful solutions.
 
-* 🔭 **Current Focus:** Building cognitive memory systems and multi-agent routers as a Founding AI Engineer.
+* 🔭 **Current Focus:** Building cognitive memory systems, Agentic AI workflows, and multi-agent routers as a Founding AI Engineer.
 * 👨‍💻 **Projects Portal:** Check out my detailed project logs at [soumojitshome-blog-web.vercel.app](https://soumojitshome-blog-web.vercel.app/).
 * 🗺️ **Based In:** Chinsurah, West Bengal, India.
 * ✉️ **Let's Connect:** [LinkedIn](https://www.linkedin.com/in/soumojit-shome) or explore my other channels at [implinkssoumojit.vercel.app](https://implinkssoumojit.vercel.app).
@@ -34,7 +34,7 @@ I am a final-year **Electronics & Communication Engineering (ECE)** student with
 ## 💼 Experience & Roles
 
 ### 🚀 **Founding AI Engineer** — [*SereAI*](https://sere-ai.vercel.app/) (Apr 2026 - Present) `[Personal Project]`
-* **AI Orchestration & Cognitive Memory:** Architected a multi-agent router directing queries to specialized engines (Visualizer, Learning, Solver) backed by a three-tier cognitive memory profile (Recent, Profile, Structured).
+* **Agentic AI Orchestration & Cognitive Memory:** Architected a multi-agent router directing queries to specialized engines (Visualizer, Learning, Solver) backed by a three-tier cognitive memory profile (Recent, Profile, Structured).
 * **AI Backends:** Designed robust API load balancing for Gemini keys with quota-aware retry strategies and token monitoring.
 * **Premium UX/UI:** Crafted an interactive developer UI using Tailwind CSS 4, Mermaid.js, Excalidraw, and Vega-Lite.
 
@@ -56,7 +56,7 @@ I am a final-year **Electronics & Communication Engineering (ECE)** student with
 
 ### 🤖 [SereAI](https://sere-ai.vercel.app/) — *High-Fidelity Engineering Study Tool*
 * **Core:** Next.js, Gemini AI, Tailwind CSS 4, Mermaid.js, Excalidraw, Node.js, Vega-Lite
-* **Highlights:** Automatically routes queries to specialized engines using a custom AI orchestrator, retains deep context via a three-tier cognitive memory profile, and visualizes dynamic data/system architecture diagrams.
+* **Highlights:** Automatically routes queries to specialized engines using a custom Agentic AI orchestrator, retains deep context via a three-tier cognitive memory profile, and visualizes dynamic data/system architecture diagrams.
 
 ### 📚 [LastMinuteEngineering](https://lastminuteengineering.vercel.app/) — *Full-Stack Academic Platform*
 * **Core:** Next.js, Node.js, Express.js, MongoDB, Razorpay, JavaScript, GCP
@@ -92,8 +92,9 @@ I am a final-year **Electronics & Communication Engineering (ECE)** student with
 ![](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![](https://img.shields.io/badge/Razorpay-0c2a4a?style=for-the-badge&logo=razorpay&logoColor=white)
 
-### 🤖 Generative AI, Cloud & Tools
+### 🤖 Generative & Agentic AI, Cloud & Tools
 ![](https://img.shields.io/badge/Gemini_AI-8E75C2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![](https://img.shields.io/badge/Agentic_AI-4F46E5?style=for-the-badge&logo=robot&logoColor=white)
 ![](https://img.shields.io/badge/Mermaid.js-FF6F61?style=for-the-badge&logo=mermaid&logoColor=white)
 ![](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
