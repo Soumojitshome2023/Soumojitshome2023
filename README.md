@@ -1,9 +1,9 @@
 <div align="center">
   <h1>Hi there, I'm Soumojit Shome 👋</h1>
-  <p><strong>Founding AI Engineer @ SereAI | B.Tech ECE Student @ Academy of Technology | Gen & Agentic AI Developer | Full Stack Developer</strong></p>
+  <p><strong>Founding AI Engineer @ SereAI | Full Stack Web & AI Engineer | Gen & Agentic AI Developer | ECE Engineer</strong></p>
   
   <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00bcd4&center=true&vCenter=true&width=500&height=40&lines=Founding+AI+Engineer+SereAI;Gen+%26+Agentic+AI+Developer;Full+Stack+Web+Developer;IoT+and+Systems+Explorer;ECE+Engineering+Student" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00bcd4&center=true&vCenter=true&width=500&height=40&lines=Founding+AI+Engineer+SereAI;Full+Stack+Web+%26+AI+Engineer;Gen+%26+Agentic+AI+Developer;IoT+and+Systems+Explorer;Electronics+%26+Communication+Engineer" alt="Typing SVG" />
   </p>
 
   <p align="center">
@@ -22,10 +22,18 @@
 
 ## ⚡ About Me
 
-I am a final-year **Electronics & Communication Engineering (ECE)** student with a deep passion for building high-performance, user-centric full-stack web applications, Agentic AI orchestration systems, and IoT innovations. I love exploring the intersection of software engineering and hardware safety/automation to design smart, impactful solutions.
+I am an **Electronics and Communication Engineer (ECE)** with a strong passion for **Agentic AI, Generative AI, full-stack web development, and IoT innovation**. I specialize in building high-performance, user-centric applications that integrate intelligent multi-agent orchestration, cognitive memory systems, and modern web architectures.
 
-* 🔭 **Current Focus:** Building cognitive memory systems, Agentic AI workflows, and multi-agent routers as a Founding AI Engineer.
-* 👨‍💻 **Projects Portal:** Check out my detailed project logs at [soumojitshome-blog-web.vercel.app](https://soumojitshome-blog-web.vercel.app/).
+**Professional Focus:**
+* 🏗️ Building scalable, responsive, and interactive full-stack web applications
+* 🤖 Architecting GenAI orchestration systems, multi-agent routers, and three-tier cognitive memory profiles
+* 🧠 Developing high-fidelity AI tools like syllabus-to-notes transformers, technical solvers, and vision mode processors
+* ⚙️ Engineering robust AI backends with API key round-robin load-balancing and quota-aware retries
+* 🔌 Developing real-time systems using WebSockets and modern backend architectures
+* 💡 Exploring the intersection of software engineering, IoT, and embedded systems
+* 🎨 Designing practical solutions that prioritize performance, usability, and premium UI/UX
+
+* 👨‍💻 **Projects Portal:** Check out my detailed project logs at [soumojitshome.vercel.app](https://soumojitshome.vercel.app/#projects).
 * 🗺️ **Based In:** Chinsurah, West Bengal, India.
 * ✉️ **Let's Connect:** [LinkedIn](https://www.linkedin.com/in/soumojit-shome) or explore my other channels at [implinkssoumojit.vercel.app](https://implinkssoumojit.vercel.app).
 
@@ -33,21 +41,28 @@ I am a final-year **Electronics & Communication Engineering (ECE)** student with
 
 ## 💼 Experience & Roles
 
-### 🚀 **Founding AI Engineer** — [*SereAI*](https://sere-ai.vercel.app/) (Apr 2026 - Present) `[Personal Project]`
+### 🚀 **Founding AI Engineer** — [*SereAI*](https://sere-ai.vercel.app/) (Apr 2026 - Jun 2026)
 * **Agentic AI Orchestration & Cognitive Memory:** Architected a multi-agent router directing queries to specialized engines (Visualizer, Learning, Solver) backed by a three-tier cognitive memory profile (Recent, Profile, Structured).
 * **AI Backends:** Designed robust API load balancing for Gemini keys with quota-aware retry strategies and token monitoring.
 * **Premium UX/UI:** Crafted an interactive developer UI using Tailwind CSS 4, Mermaid.js, Excalidraw, and Vega-Lite.
 
-### 💻 **System Engineer** — [*LastMinuteEngineering*](https://lastminuteengineering.vercel.app/) (Jul 2024 - Oct 2025)
+
+### 💻 **System Engineer** — [*LastMinuteEngineering*](https://lastminuteengineering.vercel.app/) (Jul 2024 - Apr 2026)
 * **Platform Scalability:** Built the robust core backend REST APIs from scratch using Node.js, Express, and MongoDB.
 * **Financial Integrations:** Handled secure payment gateways (Razorpay) with comprehensive webhook logging and automated status verification.
 * **Reliability:** Formulated error logging, database schemas, index tuning, and performance profiling.
 
-### 👥 **Tech Lead** — *Students' Chapter of IEI ECE | AOT* (Nov 2023 - Nov 2024)
+### ☕ **Java Full Stack Developer (TalentNext)** — *Wipro* (Jul - Oct 2025)
+* **Enterprise Training:** Completed Wipro's TalentNext Java Full Stack training program covering enterprise application development, OOP principles, and Spring Boot.
+
+### 🚂 **Industrial Trainee** — *Indian Railways - Liluah Workshop* (Jul 2025)
+* **Signal & Telecom:** Studied the Automatic Signalling System and gained hands-on understanding of the Kavach System (Train Collision Avoidance System).
+
+### 👥 **Tech Lead** — *Students' Chapter of IEI ECE | AOT* (Nov 2023 - Dec 2025)
 * **Web Design & Leadership:** Directed the design and end-to-end development of the official IEI ECE chapter portal using Next.js.
 * **Community Building:** Mentored junior students in web programming, git, and embedded systems integrations.
 
-### ☁️ **Salesforce Developer & Agentblazer Champion** — *SmartBridge / AICTE* (May 2025 - Aug 2025)
+### ☁️ **Salesforce Developer & Agentblazer Champion** — *Salesforce / SmartBridge / AICTE* (May - Jul 2025)
 * Custom CRM automation, object modeling, Apex triggers, and interactive Lightning Web Components (LWC).
 
 ---
@@ -127,11 +142,11 @@ I am a final-year **Electronics & Communication Engineering (ECE)** student with
 ## 📊 GitHub Metrics
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=soumojitshome2023&theme=dark" alt="Soumojit's Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=soumojitshome2023&theme=dark&theme=tokyonight" alt="Soumojit's Streak Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Soumojitshome2023&theme=react-dark" alt="Soumojit's Activity Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Soumojitshome2023&theme=tokyo-night" alt="Soumojit's Activity Graph" width="100%" />
 </p>
 
 <hr>
