@@ -142,7 +142,7 @@ I am an **Electronics and Communication Engineer (ECE)** with a strong passion f
 ## 📊 GitHub Metrics
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=soumojitshome2023&theme=dark&theme=tokyonight" alt="Soumojit's Streak Stats" />
+  <img src="https://streak-stats.demolab.com/?user=soumojitshome2023&theme=dark&theme=tokyonight" alt="Soumojit's Streak Stats" />
 </p>
 
 <p align="center">
