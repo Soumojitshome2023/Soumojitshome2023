@@ -142,11 +142,11 @@ I am an **Electronics and Communication Engineer (ECE)** with a strong passion f
 ## 📊 GitHub Metrics
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=soumojitshome2023&theme=dark&theme=tokyonight" alt="Soumojit's Streak Stats" />
+  <img src="https://lme-github-readme-streak-stats.vercel.app/?user=soumojitshome2023&theme=dark&theme=tokyonight" alt="Soumojit's Streak Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Soumojitshome2023&theme=tokyo-night" alt="Soumojit's Activity Graph" width="100%" />
+  <img src="https://lme-github-readme-activity-graph.vercel.app/graph?username=Soumojitshome2023&theme=tokyo-night" alt="Soumojit's Activity Graph" width="100%" />
 </p>
 
 <hr>
