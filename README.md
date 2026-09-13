@@ -1,9 +1,9 @@
 <div align="center">
   <h1>Hi there, I'm Soumojit Shome 👋</h1>
-  <p><strong>Founding AI Engineer @ SereAI | Full Stack Web & AI Engineer | Gen & Agentic AI Developer | ECE Engineer</strong></p>
+  <p><strong>Full Stack Web & AI Engineer | Gen & Agentic AI Developer | ECE Engineer</strong></p>
   
   <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00bcd4&center=true&vCenter=true&width=500&height=40&lines=Founding+AI+Engineer+SereAI;Full+Stack+Web+%26+AI+Engineer;Gen+%26+Agentic+AI+Developer;IoT+and+Systems+Explorer;Electronics+%26+Communication+Engineer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00bcd4&center=true&vCenter=true&width=500&height=40&lines=Full+Stack+Web+%26+AI+Engineer;Gen+%26+Agentic+AI+Developer;IoT+and+Systems+Explorer;Electronics+%26+Communication+Engineer" alt="Typing SVG" />
   </p>
 
   <p align="center">
@@ -22,20 +22,16 @@
 
 ## ⚡ About Me
 
-I am an **Electronics and Communication Engineer (ECE)** with a strong passion for **Agentic AI, Generative AI, full-stack web development, and IoT innovation**. I specialize in building high-performance, user-centric applications that integrate intelligent multi-agent orchestration, cognitive memory systems, and modern web architectures.
+I am an **Electronics and Communication Engineer** with a strong passion for **Agentic AI, Generative AI, full-stack web development, and IoT innovation**. I specialize in building high-performance, user-centric applications that integrate intelligent multi-agent orchestration, cognitive memory systems, and modern web architectures.
 
 **Professional Focus:**
 * 🏗️ Building scalable, responsive, and interactive full-stack web applications
 * 🤖 Architecting GenAI orchestration systems, multi-agent routers, and three-tier cognitive memory profiles
 * 🧠 Developing high-fidelity AI tools like syllabus-to-notes transformers, technical solvers, and vision mode processors
-* ⚙️ Engineering robust AI backends with API key round-robin load-balancing and quota-aware retries
 * 🔌 Developing real-time systems using WebSockets and modern backend architectures
 * 💡 Exploring the intersection of software engineering, IoT, and embedded systems
 * 🎨 Designing practical solutions that prioritize performance, usability, and premium UI/UX
-
-* 👨‍💻 **Projects Portal:** Check out my detailed project logs at [soumojitshome.vercel.app](https://soumojitshome.vercel.app/#projects).
-* 🗺️ **Based In:** Chinsurah, West Bengal, India.
-* ✉️ **Let's Connect:** [LinkedIn](https://www.linkedin.com/in/soumojit-shome) or explore my other channels at [implinkssoumojit.vercel.app](https://implinkssoumojit.vercel.app).
+* ✉️ **Let's Connect:** [LinkedIn](https://www.linkedin.com/in/soumojit-shome)
 
 ---
 
@@ -134,8 +130,9 @@ I am an **Electronics and Communication Engineer (ECE)** with a strong passion f
 
 ## 🏆 Judging & Mentorship
 
+* 💡 **Mentor @ UEM FusioniX 2026** (Sep 2026) — Mentored participating teams on system architecture, tech stacks, and project execution.
 * 🎤 **Judge & Mentor @ IEM Diversion 2K26** (Feb 2026) — Evaluated project scalability, tech stacks, UI/UX, and mentored 20+ teams.
-* 🎤 **Judge @ Smart Make-A-Thon (SMF 2025)** (Sep 2025) — Evaluated 24 competing teams on system feasibility, design, and market potential.
+* 🎤 **Judge @ IEM Smart Make-A-Thon (SMF 2025)** (Sep 2025) — Evaluated 24 competing teams on system feasibility, design, and market potential.
 
 ---
 
