@@ -14,8 +14,6 @@
   </p>
 </div>
 
-<img src="https://soumojitshomeblog.vercel.app/assets/LoadingLine.gif" style="width: 100%" />
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=soumojitshome2023&label=Profile%20views&color=0e75b6&style=flat-square" alt="soumojitshome2023 profile views" />
 </div>
@@ -37,13 +35,13 @@ I am an **Electronics and Communication Engineer** with a strong passion for **A
 
 ## 💼 Experience & Roles
 
-### 🚀 **Founding AI Engineer** — [*SereAI*](https://sere-ai.vercel.app/) (Apr 2026 - Jun 2026)
+### 🚀 **Founding AI Engineer** — [*SereAI*](https://soumojitshomeblog.vercel.app/projects/sere-ai/) (Apr 2026 - Jun 2026)
 * **Agentic AI Orchestration & Cognitive Memory:** Architected a multi-agent router directing queries to specialized engines (Visualizer, Learning, Solver) backed by a three-tier cognitive memory profile (Recent, Profile, Structured).
 * **AI Backends:** Designed robust API load balancing for Gemini keys with quota-aware retry strategies and token monitoring.
 * **Premium UX/UI:** Crafted an interactive developer UI using Tailwind CSS 4, Mermaid.js, Excalidraw, and Vega-Lite.
 
 
-### 💻 **System Engineer** — [*LastMinuteEngineering*](https://lastminuteengineering.vercel.app/) (Jul 2024 - Apr 2026)
+### 💻 **System Engineer** — [*LastMinuteEngineering*](https://soumojitshomeblog.vercel.app/projects/lastminuteengineering/) (Jul 2024 - Apr 2026)
 * **Platform Scalability:** Built the robust core backend REST APIs from scratch using Node.js, Express, and MongoDB.
 * **Financial Integrations:** Handled secure payment gateways (Razorpay) with comprehensive webhook logging and automated status verification.
 * **Reliability:** Formulated error logging, database schemas, index tuning, and performance profiling.
@@ -65,19 +63,19 @@ I am an **Electronics and Communication Engineer** with a strong passion for **A
 
 ## 🛠️ Featured Projects
 
-### 🤖 [SereAI](https://sere-ai.vercel.app/) — *High-Fidelity Engineering Study Tool*
+### 🤖 [SereAI](https://soumojitshomeblog.vercel.app/projects/sere-ai/) — *High-Fidelity Engineering Study Tool*
 * **Core:** Next.js, Gemini AI, Tailwind CSS 4, Mermaid.js, Excalidraw, Node.js, Vega-Lite
 * **Highlights:** Automatically routes queries to specialized engines using a custom Agentic AI orchestrator, retains deep context via a three-tier cognitive memory profile, and visualizes dynamic data/system architecture diagrams.
 
-### 📚 [LastMinuteEngineering](https://lastminuteengineering.vercel.app/) — *Full-Stack Academic Platform*
+### 📚 [LastMinuteEngineering](https://soumojitshomeblog.vercel.app/projects/lastminuteengineering/) — *Full-Stack Academic Platform*
 * **Core:** Next.js, Node.js, Express.js, MongoDB, Razorpay, JavaScript, GCP
 * **Highlights:** Scalable educational platform for engineering students with secure payment gateways, webhook verification, and robust exception monitoring.
 
-### 💬 Andromeda Chat WebApp — *Real-Time Instant Messenger*
+### 💬 [Andromeda Chat WebApp](https://soumojitshomeblog.vercel.app/projects/nextjs-chatapp/) — *Real-Time Instant Messenger*
 * **Core:** Socket.io, React.js, Node.js, Express.js, Tailwind CSS
 * **Highlights:** Real-time chat web application designed for low-latency messaging, active connection status monitoring, and seamless file transfer capabilities.
 
-### 🚗 WiFi Controlled Car (ESP32) — *Embedded IoT System*
+### 🚗 [WiFi Controlled Car (ESP32)](https://soumojitshomeblog.vercel.app/projects/wifi-controlled-car/) — *Embedded IoT System*
 * **Core:** ESP32 Microcontroller, C++, HTML/CSS Web Server, Motor Driver
 * **Highlights:** Created a hardware prototype controlled wirelessly over a custom-designed web interface hosted directly on the ESP32 server.
 
@@ -130,9 +128,9 @@ I am an **Electronics and Communication Engineer** with a strong passion for **A
 
 ## 🏆 Judging & Mentorship
 
-* 💡 **Mentor @ UEM FusioniX 2026** (Sep 2026) — Mentored participating teams on system architecture, tech stacks, and project execution.
-* 🎤 **Judge & Mentor @ IEM Diversion 2K26** (Feb 2026) — Evaluated project scalability, tech stacks, UI/UX, and mentored 20+ teams.
-* 🎤 **Judge @ IEM Smart Make-A-Thon (SMF 2025)** (Sep 2025) — Evaluated 24 competing teams on system feasibility, design, and market potential.
+* 💡 [**Mentor @ UEM FusioniX 2026**](https://soumojitshomeblog.vercel.app/blogs/mentorship/mentor-at-uem-fusionix-2026/) (Sep 2026) — Mentored participating teams on system architecture, tech stacks, and project execution.
+* 🎤 [**Judge & Mentor @ IEM Diversion 2K26**](https://soumojitshomeblog.vercel.app/blogs/8thsem/judge-&-mentor-at-iem-diversion-2K26/) (Feb 2026) — Evaluated project scalability, tech stacks, UI/UX, and mentored 20+ teams.
+* 🎤 [**Judge @ IEM Smart Make-A-Thon (SMF 2025)**](https://soumojitshomeblog.vercel.app/blogs/7sem/iem-smf-judge/) (Sep 2025) — Evaluated 24 competing teams on system feasibility, design, and market potential.
 
 ---
 
